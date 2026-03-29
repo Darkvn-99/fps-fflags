@@ -1,5 +1,7 @@
 # fps-fflags
 best allowed fflags for fps
+
+<pre>
 {
     "DFFlagTextureQualityOverrideEnabled": "True",
     "DFFlagDebugPauseVoxelizer": "True",
@@ -16,3 +18,4 @@ best allowed fflags for fps
     "FIntFRMMaxGrassDistance": "0",
     "FIntFRMMinGrassDistance": "0"
 }
+<pre>
