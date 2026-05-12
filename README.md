@@ -14,7 +14,7 @@ best allowed fflags for fps
     "FFlagHandleAltEnterFullscreenManually": "False",
     "FFlagDebugSkyGray": "True",
     "FIntGrassMovementReducedMotionFactor": "0",
-    "FIntDebugForceMSAASamples": "1",
+    "FIntDebugForceMSAASamples": "0",
     "FIntFRMMaxGrassDistance": "0",
     "FIntFRMMinGrassDistance": "0"
 }
